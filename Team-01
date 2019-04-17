@@ -1,3 +1,6 @@
+Class Project-CSD4464
+
+
 Names table:
 insert into students values ("Steve", "102");
 insert into students values ("Jordan", "103");
